@@ -1,0 +1,15 @@
+.commentPage {
+  display: flex;
+}
+
+.card {
+  display: flex;
+  padding: 1em 1em 2em;
+  height: 100%;
+}
+
+.postId {
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
+}
